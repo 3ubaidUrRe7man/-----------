@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Aref+Ruqaa+Ink:wght@400;700&family=Jua&family=Kalam:wght@300;400;700&family=Kosugi+Maru&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Solitreo&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Harmattan:wght@400;500;600;700&display=swap');
+
+@font-face {
+  font-family: 'Tengwar Formal CSUR';
+  src: url('https://drive.google.com/file/d/1t1y3rI1lQ2vFgDdCgnlK-i_J4tgW8rP5/view?usp=drive_link');
+}
+
+* {
+  font-family: 'Tengwar Formal CSUR', sans-serif;
+}
+
+@font-face {
+  font-family: 'Tengwar Telcontar';
+  src: url('https://drive.google.com/file/d/1MGVqNWjTDiqkwjbaKwT8OxDhbTThrK8e/view?usp=drive_link');
+}
+
+* {
+  font-family: 'Tengwar Telcontar', sans-serif;
+}
+
+@font-face {
+  font-family: 'FreeMonoTengwar-embedding';
+  src: url('https://drive.google.com/file/d/1jzKaHaA_Aa8C7OFVKRCMiABYuatWGw9L/view?usp=drive_link');
+}
+
+* {
+  font-family: 'FreeMonoTengwar-embedding', sans-serif;
+}
+
+@font-face {
+  font-family: 'FreeMonoTengwar';
+  src: url('https://drive.google.com/file/d/1XdqEdT9Fu-2n15pY7sjeLw244JcwRBp2/view?usp=drive_link');
+}
+
+* {
+  font-family: 'FreeMonoTengwar', sans-serif;
+}
+
+@font-face {
+  font-family: 'Tengwar Telcontar Bold';
+  src: url('https://drive.google.com/file/d/1qRebTKeMK-_tyE9jkz14eIEMiDJ3e4o0/view?usp=drive_link');
+}
+
+* {
+  font-family: 'Tengwar Telcontar Bold', sans-serif;
+}
+
+.aref-ruqaa-regular {
+    font-family: "Aref Ruqaa", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.aref-ruqaa-bold {
+    font-family: "Aref Ruqaa", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.aref-ruqaa-ink-regular {
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.aref-ruqaa-ink-bold {
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.amiri-quran-regular {
+    font-family: "Amiri Quran", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.jua-regular {
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.kalam-light {
+    font-family: "Kalam", cursive;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.kalam-regular {
+    font-family: "Kalam", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.kalam-bold {
+    font-family: "Kalam", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.kosugi-maru-regular {
+    font-family: "Kosugi Maru", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.caveat-regular {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.caveat-bold {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.jost-regular {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.jost-bold {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.jost-bold {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.solitreo-regular {
+    font-family: "Solitreo", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.gulzar-regular {
+  font-family: "Gulzar", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.harmattan-regular {
+  font-family: "Harmattan", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.harmattan-medium {
+  font-family: "Harmattan", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.harmattan-semibold {
+  font-family: "Harmattan", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.harmattan-bold {
+  font-family: "Harmattan", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+* {
+    font-family: "Tengwar Formal CSUR", Solitreo, Caveat, "Kalam", "Jua", "Aref Ruqaa", Jost, "Kosugi Maru" !important;
+    direction: rtl !important;
+    text-align: right !important
+}
